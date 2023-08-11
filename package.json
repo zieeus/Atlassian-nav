@@ -1,0 +1,25 @@
+{
+  "name": "page-layout-resize-sidebar",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0",
+    "@emotion/react": "^11.7.1",
+    "@atlaskit/tokens": "^1.14.0",
+    "@atlaskit/tooltip": "*",
+    "@atlaskit/page": "12.3.5",
+    "@atlaskit/page-layout": "1.7.12",
+    "bind-event-listener": "^2.1.1",
+    "@atlaskit/css-reset": "latest",
+    "styled-components": "3.2.6",
+    "react-dom": "^16.8.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
